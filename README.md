@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Satyam Kasaudhan
+- 👋 Hi, I’m  Satyam Kumar
 - 👀 I’m interested in Cyber Security and AI/ML
 - 🌱 I’m currently learning Machine Learning and Web Application Pentesting
 - 💞️ I’m looking to collaborate on  Ethical Hacking and Web Application Testing
