@@ -1,5 +1,4 @@
-<h1 align="center">Hello, 👋, I'm Satyam Kasaudhan</h1>
-<h3 align="center">I’m interested in Cyber Security</h3>
+<h1 align="center">Hello, 👋, I'm Satyam Kumar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam2016&label=Profile%20views&color=0e75b6&style=flat" alt="satyam2016" /> </p>
 
