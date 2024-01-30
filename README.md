@@ -22,3 +22,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam2016&" alt="satyam2016" /></p>
+
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{Satyam2016}}/contributions?format=svg" width="350" />
+    </a>
+</p>
